@@ -1,8 +1,9 @@
 first
-last again
+and
+last
 xyfz
 add
 second and third
 final
 duke
-star
+the best

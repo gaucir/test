@@ -1,7 +1,9 @@
 first
+and
 last
 xyfz
-add
+remove
 second
-final
+finally
 duke
+the best

@@ -1,9 +1,9 @@
 first
-and
+and before
 last
 xyfz
 add
-second and third
-final
+finally
 duke
 the best
+as always

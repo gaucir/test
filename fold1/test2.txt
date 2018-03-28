@@ -1,9 +1,8 @@
 first
 and
 last
-xyfz
 add
-duke likes food
-the best
+duke does like food
+the worst
 i am sure
 not so sure

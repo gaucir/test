@@ -1,9 +1,8 @@
 first
-and
+and surely
 last
-xyfz
 add
 duke likes food
 the best
-i am sure
-not so sure
+i am not sure
+so sure

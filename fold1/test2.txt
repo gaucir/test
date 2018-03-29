@@ -1,9 +1,11 @@
+first
 second
 and surely
 last
-add
+adding
 duke likes food
-the best
+the best of all
 i am sure
-so sure
+so not sure
+again
 bye
